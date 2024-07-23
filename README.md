@@ -1,4 +1,6 @@
-# Steganography
- This is group project done by me, Karthikeyan A S and Sabari Periyasamy.
- Image Steganography is hiding data inside of an image.
- This project is submitted to PSG Institute of Technology and Applied Research, Coimbatore as our first semester project. 
+#Steganography
+Image Steganography is a method of hiding data within an image file. This project demonstrates how to embed and extract secret messages into/from images using Python.
+
+Features
+Hide secret messages inside images
+Extract hidden messages from images
